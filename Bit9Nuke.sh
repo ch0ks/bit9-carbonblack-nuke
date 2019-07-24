@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#title          :Nuke Bit8 agent from existance
+#title          :Nuke Bit9 agent from existance
 #description    :This is an old scrip deveploed in 2016. Use at your own risk.
 #                This script will remove Bit8 agent from any OSX machine before
 #                El Capitan. Requires root and it's considered a PoC
